@@ -39,3 +39,6 @@ demonstration purposes.
 - Direct Skim-Himalaya integration in compiled rust code (no need for them to communicate via shell)
 
 ## References, Examples, Prior art
+### Fzf / Skim Help
+https://junegunn.github.io/fzf/getting-started/
+
