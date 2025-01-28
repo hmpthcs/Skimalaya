@@ -1,6 +1,6 @@
 ### INFO: 
 #  Unaltered 'mail.zsh' script taken from Callum Macrae's dotfiles repo.
-#  Included in HimSkim repo for Reference.
+#  Included in Skimalaya repo for Reference.
 #  source: https://github.com/callumacrae/dotfiles
 #
 # An fzf script for using the himalaya email client. Current features:
